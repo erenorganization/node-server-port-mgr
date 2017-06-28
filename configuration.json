@@ -1,0 +1,20 @@
+{
+    "serverName" : "MyServer",
+    "apps": [{
+        "name": "FirstApp",
+        "modules": [{
+            "name": "Mdl_test"
+        }],
+        "port": 3000
+    }, {
+        "name": "SecondApp",
+        "modules": [{
+            "name": "HelloModule"
+        },
+        {
+            "name": "test2"
+        }
+      ],
+        "port": 3001
+    }]
+}

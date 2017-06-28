@@ -1,0 +1,9 @@
+{
+  "name": "node-server-port",
+  "version": "0.0.1",
+  "description": "Node Server with Port manager",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jsonfile": "^2.4.0"
+  }
+}
